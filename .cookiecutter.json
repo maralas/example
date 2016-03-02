@@ -1,0 +1,11 @@
+{
+    "library_name": "topology_lib_example",
+    "author": "maralas",
+    "email": "maria.alas@hpe.com",
+    "repo_url": "https://github.com/HPENetworking/topology_lib_example",
+    "doc_url": "https://github.com/HPENetworking/topology_lib_example/tree/master/doc",
+    "project_name": "example Communication Library for Topology",
+    "short_description": "A short description of your library.",
+    "year": "2016",
+    "version": "0.1.0"
+}
